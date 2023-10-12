@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: EnemeArrmoredSceleton
+  m_Controller: {fileID: 9100000, guid: 06fb1f8e40f3f034c89118c0bbd4f320, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 600fdd69344526241807865f0abe2912, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6e7cd67dbececff4e80c5303d2709850, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1fe1e521555031e46b89f0d638a2e680, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ecb572683b0e49340b3cf06b06fdb354, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5ad64c71871cc7d4995c0717baca8cc6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b755391852442f045ade830e9eac4683, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: dfa4c9d02c2849447ae79dd5a3644034, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c7c765e5e9fb04542bd76f1ac9722a66, type: 2}
